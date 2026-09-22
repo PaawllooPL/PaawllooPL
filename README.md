@@ -18,7 +18,7 @@ I'm a computer engineering graduate, focused on building practical software and 
 
 **Backend & Web**
 
-`Spring (Boot)` `Node.js` `REST APIs` `PostgreSQL` `MongoDB` `Docker`
+`Spring (Boot)` `Angular` `Node.js` `REST APIs` `PostgreSQL` `MongoDB` `Docker`
 
 **Systems, Ver. Control, Commercial**
 
