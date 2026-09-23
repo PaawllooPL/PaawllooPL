@@ -2,7 +2,7 @@
 
 # Hi
 
-**Software Developer | Backend • AI/ML**
+**Software Engineer | Backend • AI/ML**
 
 **Bachelor in Computer Engineering | Spec: Web applications**
 
