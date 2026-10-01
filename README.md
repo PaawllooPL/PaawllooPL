@@ -35,6 +35,8 @@ I'm a computer engineering graduate, focused on building practical software and 
 ## Selected Projects
 
 ### Flynow Platform
+![Main View](images/flynow_offers.png)
+
 
 https://github.com/PaawllooPL/FlyNowPlatform-backend
 
@@ -49,6 +51,7 @@ A production-oriented project focused on **Aviation sightseeing flights**.
 * Includes **Clean architecture with anemic DDD**
 
 ### WorkshopManager
+![Main View](images/client_to_accept.png)
 https://github.com/PaawllooPL/WorkshopManager
 
 **Web app for mechanical workshop**
@@ -66,6 +69,7 @@ Project itself was written in **C#** with **ASP.NET core MVC** Framework as serv
 
 
 ### Damaged Crop Detection with UAV
+![RT-DETR detection](rt_detr_det.png)
 https://github.com/PaawllooPL/Damaged-Crop-Detection-UAV
 
 A Master's thesis research on usage of **AI in Agriculture** using **Vision AI** on teledetection data.
